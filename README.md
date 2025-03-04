@@ -1,7 +1,7 @@
 # STATA Auto Prices, Weight and MPG Analysis
 
 ## Project Overview
-In this project, I analyzed the `auto.dta` dataset which is inbuilt in the STATA programming language. The dataset explore relationships between various car attributes and their prices. It demonstrates the use of STATA for data analysis, visualization, and regression modeling. 
+In this project, I analyzed and explored the relationships between various car attributes and their prices. The project demonstrates the use of STATA for data analysis, visualization, and regression modeling. 
 
 ## Objectives
 - I perform the exploratory data analysis (EDA)
@@ -10,12 +10,6 @@ In this project, I analyzed the `auto.dta` dataset which is inbuilt in the STATA
 
 ## Data
 The dataset `auto.dta` contains information about different car models, including price, weight, mileage, and other attributes.
-
-## Analysis Steps
-1. **Loading Data:** Load the `auto.dta` dataset.
-2. **EDA:** Generate summary statistics and visualizations.
-3. **Regression Analysis:** Perform regression analysis to explore the impact of mileage and weight on car prices.
-4. **Export Results:** Save regression results and visualizations.
 
 ## Results
 - **Regression Results:** [Download here](results/regression_results.pdf)
